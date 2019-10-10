@@ -1,0 +1,5 @@
+﻿  functor.cpp
+  stlFortionF.cpp
+  Generating Code...
+stlFortionF.obj : error LNK2005: main already defined in functor.obj
+E:\CODE V\STL\x64\Debug\STL.exe : fatal error LNK1169: one or more multiply defined symbols found
